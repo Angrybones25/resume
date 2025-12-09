@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Signup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resume"
+	}
+}
